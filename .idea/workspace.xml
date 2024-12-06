@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="53cf9809-c58a-4039-a9e6-b8f9f7fb5900" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/node.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/heuristic.py" beforeDir="false" afterPath="$PROJECT_DIR$/heuristic.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +76,7 @@
       <option name="presentableId" value="Default" />
       <updated>1733440109812</updated>
       <workItem from="1733440111056" duration="151000" />
-      <workItem from="1733440279580" duration="6016000" />
+      <workItem from="1733440279580" duration="6930000" />
     </task>
     <servers />
   </component>
